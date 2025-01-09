@@ -2,7 +2,7 @@
 
 [www.CADialog.com](https://www.CADialog.com)
 
-![CADialog_p1.png](.attachments.10133/CADialog_p1.png)
+![CADialog_p1.png](screenshots/CADialog_p1.png)
 
 # About the Project
 
