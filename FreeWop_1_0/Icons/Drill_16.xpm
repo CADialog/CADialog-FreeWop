@@ -1,0 +1,27 @@
+/* XPM */
+static const char *RHJpbGxfMTY_[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c black",
+". c #FFF200",
+"X c #10A7DA",
+"o c #00A2E8",
+"O c white",
+/* pixels */
+"OOOOOOOOOOOO OOO",
+"OOOOOOOO     OOO",
+"OOOO    oooo OOO",
+"OOO oooooooo OOO",
+"OOO oooooooo OOO",
+"OOO oo..oooo OOO",
+"OOO oo..oooo OOO",
+"OOO oooooooo OOO",
+"OOO oooooooo OOO",
+"OOO oooo..oX OOO",
+"OOO oooo..oo OOO",
+"OOO ooooooXo OOO",
+"OOO oooooooo OOO",
+"OOO oooooo   OOO",
+"OOO o      OOOOO",
+"OOO   OOOOOOOOOO"
+};
