@@ -11,6 +11,22 @@
 
 # Installation
 
+Manual installation
+The install path for FreeCAD modules depends on the operating system used.
+
+To find where is the user's application data directory enter next command on FreeCAD's Python console.
+
+```python
+App.getUserAppDataDir()
+```
+Examples on different OS
+
+Linux: /home/user/.local/share/FreeCAD/Mod/
+
+macOS: /Users/user/Library/Preferences/FreeCAD/Mod/
+
+Windows: C:\Users\user\AppData\Roaming\FreeCAD\Mod\
+
 # Usage
 
 # Roadmap
