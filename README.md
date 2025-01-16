@@ -5,6 +5,13 @@
 
 ![CADialog_p1.png](screenshots/CADialog_p1.png)
 
+<img src="screenshots/CADialog_p20.png" alt="Alt Text" width="35%" height="25%"> <img src="screenshots/CADialog_p3.png" alt="Alt Text" width="35%" height="35%">
+<img src="screenshots/CADialog_p6.png" alt="Alt Text" width="35%" height="25%"> <img src="screenshots/CADialog_p7.png" alt="Alt Text" width="35%" height="35%">
+<img src="screenshots/CADialog_p8.png" alt="Alt Text" width="35%" height="25%"> <img src="screenshots/CADialog_p3.png" alt="Alt Text" width="35%" height="35%">
+
+
+
+
 # About the Project
 
 # Getting Started
