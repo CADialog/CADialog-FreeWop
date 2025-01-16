@@ -13,7 +13,8 @@
 
 
 # About the Project
-
+This FreeCAD workbench offers the possibilty to create simple cupboards and woodworkings for boards. It uses the full paramtric of FreeCAD and is able to generate cnc-programs for WEEKE/HOMAG machines (WoodWOP).
+Also seperate postprocessors for WoodWop are available.
 # Getting Started
 
 # Installation
